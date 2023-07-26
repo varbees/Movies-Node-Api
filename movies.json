@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": ["Drama"],
+    "rating": 9.3
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": ["Crime", "Drama"],
+    "rating": 9.2
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama"],
+    "rating": 9.0
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "rating": 8.9
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": ["Crime", "Drama"],
+    "rating": 8.9
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "genres": ["Biography", "Drama", "History"],
+    "rating": 8.9
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "rating": 8.8
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "rating": 8.7
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Sci-Fi"],
+    "rating": 8.7
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "genres": ["Crime", "Drama"],
+    "rating": 8.7
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "genres": ["Adventure", "Drama"],
+    "rating": 8.6
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "genres": ["Comedy", "Drama", "War"],
+    "rating": 8.6
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "genres": ["Crime", "Drama"],
+    "rating": 8.6
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "rating": 8.6
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "rating": 8.6
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "genres": ["Western"],
+    "rating": 8.5
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": ["Drama", "Romance", "War"],
+    "rating": 8.5
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "genres": ["Action", "Adventure"],
+    "rating": 8.4
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "genres": ["Mystery", "Thriller"],
+    "rating": 8.5
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "rating": 8.5
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "genres": ["Animation", "Adventure", "Drama"],
+    "rating": 8.5
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "rating": 8.5
+  }
+]
